@@ -1,0 +1,1 @@
+const constantURL = "https://fakestoreapi.com/products";
